@@ -4,8 +4,8 @@ Trying 25 different programming languages
 
 Languages to use:
 
-
-- C++ (alt. std)                      Systemy: 7
+```
+- C++ (alt. std)                     Systemy: 7
 - Rust (love this lang )
 - Zig
 - Pascal
@@ -30,3 +30,4 @@ Languages to use:
 - CUDA
 - Uiuia                              Weird:  2
 - Prolog
+```
