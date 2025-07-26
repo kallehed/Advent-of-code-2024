@@ -2,7 +2,10 @@
 Trying 25 different programming languages 
 
 
-Languages to use:
+## THE DAYS:
+DAY1: Racket
+
+### Languages to use:
 
 ```
 - C++ (alt. std)                     Systemy: 7
@@ -17,7 +20,7 @@ Languages to use:
 - Go
 - Haskell                            Functional: 2
 - Ocaml
-- Racket                             Lispy: 2
+- Racket DONE                        Lispy: 2
 - Clojure
 - Ruby                               Interpreted 5
 - Python
