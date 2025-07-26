@@ -3,8 +3,10 @@ Trying 25 different programming languages
 
 
 ## THE DAYS:
-DAY1: Racket
-DAY2: Kotlin
+DAY1: Racket (Bad tooling, vscode ext didn't work. Felt like worse haskell)
+DAY2: Kotlin (Bad tooling, only got autocomplete partially to work on intellij community edition)
+DAY3: Python (Good tooling in vscode)
+
 
 ### Languages to use:
 
@@ -24,7 +26,7 @@ DAY2: Kotlin
 - Racket DONE                        Lispy: 2
 - Clojure
 - Ruby                               Interpreted 5
-- Python
+- Python DONE
 - Typescript
 - Lua
 - Bash
