@@ -4,6 +4,7 @@ Trying 25 different programming languages
 
 ## THE DAYS:
 DAY1: Racket
+DAY2: Kotlin
 
 ### Languages to use:
 
@@ -16,7 +17,7 @@ DAY1: Racket
 - Fortran
 - RiscV assembly
 - C#                                 Garbage collected: 3
-- Kotlin
+- Kotlin DONE
 - Go
 - Haskell                            Functional: 2
 - Ocaml
