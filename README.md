@@ -11,6 +11,8 @@ DAY3: Python (Good tooling in vscode)
 
 DAY4: Rust (VERY good tooling in vscode)
 
+DAY5: Haskell (OK tooling, hlint is good, ormolu works)
+
 
 ### Languages to use:
 
@@ -25,7 +27,7 @@ DAY4: Rust (VERY good tooling in vscode)
 - C#                                 Garbage collected: 3
 - Kotlin DONE
 - Go
-- Haskell                            Functional: 2
+- Haskell DONE                       Functional: 2
 - Ocaml
 - Racket DONE                        Lispy: 2
 - Clojure
