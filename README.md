@@ -13,6 +13,8 @@ DAY4: Rust (VERY good tooling in vscode)
 
 DAY5: Haskell (OK tooling, hlint is good, ormolu works)
 
+DAY6: Go (Very good tooling, monkey-level language) 
+
 
 ### Languages to use:
 
@@ -26,7 +28,7 @@ DAY5: Haskell (OK tooling, hlint is good, ormolu works)
 - RiscV assembly
 - C#                                 Garbage collected: 3
 - Kotlin DONE
-- Go
+- Go DONE
 - Haskell DONE                       Functional: 2
 - Ocaml
 - Racket DONE                        Lispy: 2
