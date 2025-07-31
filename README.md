@@ -15,6 +15,8 @@ DAY5: Haskell (OK tooling, hlint is good, ormolu works)
 
 DAY6: Go (Very good tooling, monkey-level language) 
 
+DAY7: Ocaml (Nice tooling, but annoying stdlib, good formatter)
+
 
 ### Languages to use:
 
@@ -30,7 +32,7 @@ DAY6: Go (Very good tooling, monkey-level language)
 - Kotlin DONE
 - Go DONE
 - Haskell DONE                       Functional: 2
-- Ocaml
+- Ocaml DONE
 - Racket DONE                        Lispy: 2
 - Clojure
 - Ruby                               Interpreted 5
@@ -45,3 +47,7 @@ DAY6: Go (Very good tooling, monkey-level language)
 - Uiuia                              Weird:  2
 - Prolog
 ```
+
+
+# Notes
+Implemented Day7 in haskell as well, haskell was actually slower
