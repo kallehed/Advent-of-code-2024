@@ -19,6 +19,8 @@ DAY7: Ocaml (Nice tooling, but annoying stdlib, good formatter)
 
 DAY8: C 
 
+DAY9: Jai (Has syntax highlighting at least)
+
 
 ### Languages to use:
 
@@ -31,6 +33,7 @@ DAY8: C
 - Fortran
 - RiscV assembly
 - C DONE
+- Jai DONE
 - C#                                 Garbage collected: 3
 - Kotlin DONE
 - Go DONE
