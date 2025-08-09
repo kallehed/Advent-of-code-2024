@@ -1,0 +1,9 @@
+
+data.txt
+*.o
+*.hi
+p1
+p2
+target
+bin
+obj
