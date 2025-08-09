@@ -17,6 +17,8 @@ DAY6: Go (Very good tooling, monkey-level language)
 
 DAY7: Ocaml (Nice tooling, but annoying stdlib, good formatter)
 
+DAY8: C 
+
 
 ### Languages to use:
 
@@ -28,6 +30,7 @@ DAY7: Ocaml (Nice tooling, but annoying stdlib, good formatter)
 - Odin
 - Fortran
 - RiscV assembly
+- C DONE
 - C#                                 Garbage collected: 3
 - Kotlin DONE
 - Go DONE
