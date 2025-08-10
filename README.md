@@ -23,10 +23,12 @@ DAY9: Jai (Has syntax highlighting at least)
 
 DAY10: C# (Boring language)
 
+DAY11: F# (Pretty nice, but annoying+elusive documentation)
+
 ### Languages to use:
 
 ```
-- C++ (alt. std)                     Systemy: 7
+- C++ (alt. std)                     Systemy
 - Rust DONE
 - Zig
 - Pascal
@@ -35,23 +37,24 @@ DAY10: C# (Boring language)
 - RiscV assembly
 - C DONE
 - Jai DONE
-- C# DONE                            Garbage collected: 3
+- C# DONE                            Garbage collected
 - Kotlin DONE
 - Go DONE
-- Haskell DONE                       Functional: 2
+- Haskell DONE                       Functional
 - Ocaml DONE
-- Racket DONE                        Lispy: 2
+- F# DONE
+- Racket DONE                        Lispy
 - Clojure
-- Ruby                               Interpreted 5
+- Ruby                               Interpreted
 - Python DONE
 - Typescript
 - Lua
 - Bash
-- Elixir                             Erlang: 2
+- Elixir                             Erlang
 - Gleam
-- OpenCL                             GPU:  2
+- OpenCL                             GPU
 - CUDA
-- Uiuia                              Weird:  2
+- Uiuia                              Weird
 - Prolog
 ```
 
