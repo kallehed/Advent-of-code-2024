@@ -70,3 +70,13 @@ Odin is good with int's. Better than rust. You can just use ints and index your 
 But you can't index '::' arrays with runtime values... have to copy them first with ':='
 I approve of fuzzy search: `https://pkg.odin-lang.org/base/`
 
+
+Jai has some GREAT error messages:
+```
+p1.jai:1,1: Error: Unable to parse an expression here. This looks like a C-style declaration (two identifiers in a row); maybe it's a mistake of habit? If you want to declare a variable, try "p1: package;"
+
+    package p1
+```
+
+
+But finding library functions in jai is a nightmare... a million "rg 'somename ::'"

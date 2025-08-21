@@ -5,6 +5,8 @@ run p2: `odin run p2.odin -file < data.txt`
 
 watch it: `watch --differences -c -n 0.4 "odin run p1.odin -file  < data.txt"`
 
+// (also in the p1.jai version, do  `watch --differences -c -n 0.4 "jai-linux p1.jai && ./p1"`)
+
 
 // you can only index into compile-time known arrays/slices with compile time known constants??
 // Had to convert a array :: []int{1,2,3} into array := ...
