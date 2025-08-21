@@ -27,6 +27,8 @@ DAY11: F# (Pretty nice, but annoying+elusive documentation)
 
 DAY12: Odin (Okay language, good std, but sometimes confusing) 
 
+DAY13: Julia (Seemed interesting but I just used regex and a integer optimization library) 
+
 ### Languages to use:
 
 ```
@@ -47,7 +49,7 @@ DAY12: Odin (Okay language, good std, but sometimes confusing)
 - F# DONE
 - Racket DONE                        Lispy
 - Clojure
-- Ruby                               Interpreted
+- Julia DONE                         Interpreted
 - Python DONE
 - Typescript
 - Lua
@@ -80,3 +82,7 @@ p1.jai:1,1: Error: Unable to parse an expression here. This looks like a C-style
 
 
 But finding library functions in jai is a nightmare... a million "rg 'somename ::'"
+
+
+
+GLPK: GNU Linear Programming Kit, works. 
