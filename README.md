@@ -25,6 +25,8 @@ DAY10: C# (Boring language)
 
 DAY11: F# (Pretty nice, but annoying+elusive documentation)
 
+DAY12: Odin (Okay language, good std, but sometimes confusing) 
+
 ### Languages to use:
 
 ```
@@ -32,7 +34,7 @@ DAY11: F# (Pretty nice, but annoying+elusive documentation)
 - Rust DONE
 - Zig
 - Pascal
-- Odin
+- Odin DONE
 - Fortran
 - RiscV assembly
 - C DONE
@@ -61,3 +63,10 @@ DAY11: F# (Pretty nice, but annoying+elusive documentation)
 
 # Notes
 Implemented Day7 in haskell as well, haskell was actually slower
+
+Odin has a bunch of very weird quirks. Like, should you use delete or free?
+I liked the return-value stuff, setting default return values. 
+Odin is good with int's. Better than rust. You can just use ints and index your slices and so on. 
+But you can't index '::' arrays with runtime values... have to copy them first with ':='
+I approve of fuzzy search: `https://pkg.odin-lang.org/base/`
+
