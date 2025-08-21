@@ -1,6 +1,6 @@
 
-run p1: `odin run p1.odin -file`
-run p2: `odin run p2.odin -file`
+run p1: `odin run p1.odin -file < data.txt`
+run p2: `odin run p2.odin -file < data.txt`
 
 
 watch it: `watch --differences -c -n 0.4 "odin run p1.odin -file  < data.txt"`
