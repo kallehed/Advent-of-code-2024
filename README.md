@@ -86,3 +86,7 @@ But finding library functions in jai is a nightmare... a million "rg 'somename :
 
 
 GLPK: GNU Linear Programming Kit, works. 
+
+
+For some reason Jai has pointer arithmatic, so if you have `asd: *[2]int` (pointer to an array of 2 ints), you can't do `asd[0] = 2`, because that will do it like c, it will index into the 'array' of arrays. 
+This is bad and annoying, cuz you have to do `asd.*[0]` instead... Not great for refactoring! ~ Odin does this right. 
