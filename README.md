@@ -29,10 +29,12 @@ DAY12: Odin (Okay language, good std, but sometimes confusing)
 
 DAY13: Julia (Seemed interesting but I just used regex and a integer optimization library) 
 
+DAY14: C++ (Hooray 1000 line template error messages, and incomprehensible std documentation for just reading with an input iterator thingy)
+
 ### Languages to use:
 
 ```
-- C++ (alt. std)                     Systemy
+- C++ DONE                           Systemy
 - Rust DONE
 - Zig
 - Pascal
