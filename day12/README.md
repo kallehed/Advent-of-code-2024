@@ -6,6 +6,11 @@ run p2: `odin run p2.odin -file < data.txt`
 watch it: `watch --differences -c -n 0.4 "odin run p1.odin -file  < data.txt"`
 
 // (also in the p1.jai version, do  `watch --differences -c -n 0.4 "jai-linux p1.jai && ./p1"`)
+// (also, jai has many weird bugs, like, if you put in type annotation for compile-time
+// know variable it sometimes will think it's not compile-time anymore??)
+// (also, it allows you to modify compile time known constants if you just
+// pass them to a function, and then you can actually modify CONSTANT information... OOPS that was actually my fault, because it copies the whole array: [2]int to the function (not a pointer)
+// that should probably crash instead, as it should be READONLY memory...)
 
 
 // you can only index into compile-time known arrays/slices with compile time known constants??
