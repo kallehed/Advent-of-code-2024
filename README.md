@@ -31,6 +31,8 @@ DAY13: Julia (Seemed interesting but I just used regex and a integer optimizatio
 
 DAY14: C++ (Hooray 1000 line template error messages, and incomprehensible std documentation for just reading with an input iterator thingy)
 
+DAY15: Fortran (A refreshing language, good lsp, nice documentation. Though the language is kind of weird and annoying)
+
 ### Languages to use:
 
 ```
@@ -39,7 +41,7 @@ DAY14: C++ (Hooray 1000 line template error messages, and incomprehensible std d
 - Zig
 - Pascal
 - Odin DONE
-- Fortran
+- Fortran DONE
 - RiscV assembly
 - C DONE
 - Jai DONE
@@ -92,3 +94,5 @@ GLPK: GNU Linear Programming Kit, works.
 
 For some reason Jai has pointer arithmatic, so if you have `asd: *[2]int` (pointer to an array of 2 ints), you can't do `asd[0] = 2`, because that will do it like c, it will index into the 'array' of arrays. 
 This is bad and annoying, cuz you have to do `asd.*[0]` instead... Not great for refactoring! ~ Odin does this right. 
+
+Fortran has real 1950's style, and if you can't handle it, though luck
