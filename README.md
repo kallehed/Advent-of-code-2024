@@ -35,6 +35,8 @@ DAY15: Fortran (A refreshing language, good lsp, nice documentation. Though the 
 
 DAY16: Zig (Worst language so far... opposite of 'joy of programming'. Clown language)
 
+DAY17: Swift (Nifty language)
+
 ### Languages to use:
 
 ```
@@ -66,6 +68,7 @@ DAY16: Zig (Worst language so far... opposite of 'joy of programming'. Clown lan
 - CUDA
 - Uiuia                              Weird
 - Prolog
+- Swift DONE                         
 ```
 
 
