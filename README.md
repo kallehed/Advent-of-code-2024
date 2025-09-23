@@ -37,6 +37,8 @@ DAY16: Zig (Worst language so far... opposite of 'joy of programming'. Clown lan
 
 DAY17: Swift (Nifty language)
 
+DAY18: Javascript
+
 ### Languages to use:
 
 ```
@@ -59,7 +61,7 @@ DAY17: Swift (Nifty language)
 - Clojure
 - Julia DONE                         Interpreted
 - Python DONE
-- Typescript
+- Javascript DONE
 - Lua
 - Bash
 - Elixir                             Erlang
