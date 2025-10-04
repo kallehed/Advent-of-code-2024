@@ -39,6 +39,8 @@ DAY17: Swift (Nifty language)
 
 DAY18: Javascript
 
+DAY19: Bash (Works well enough for easy problems)
+
 ### Languages to use:
 
 ```
@@ -63,7 +65,7 @@ DAY18: Javascript
 - Python DONE
 - Javascript DONE
 - Lua
-- Bash
+- Bash DONE
 - Elixir                             Erlang
 - Gleam
 - OpenCL                             GPU
