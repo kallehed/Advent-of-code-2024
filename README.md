@@ -41,6 +41,8 @@ DAY18: Javascript
 
 DAY19: Bash (Works well enough for easy problems)
 
+DAY20: GDScript (Very pythonic. Godot is cursed because of this scripting language though)
+
 ### Languages to use:
 
 ```
@@ -64,6 +66,7 @@ DAY19: Bash (Works well enough for easy problems)
 - Julia DONE                         Interpreted
 - Python DONE
 - Javascript DONE
+- GDScript DONE
 - Lua
 - Bash DONE
 - Elixir                             Erlang
@@ -122,3 +125,5 @@ Bad things about zig:
 - Bad print function. If you spell something wrong in your format string, you aren't even informed what line of your code is wrong. Good luck writing multiple format strings at once and compiling...
 - Everything about this language screams just 'unfinished mess', 'features without any thought', 'pure syntactic absurdity' ...
 - ArrayList(T) is 40 bytes, as opposed to 24 in rust or C++. ('cuz allocators and so on...), I may change my mind in the future if I see good justification for this...
+
+GDScript should not be used for gameplay code. What's next, using bash for your game?
