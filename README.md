@@ -43,6 +43,8 @@ DAY19: Bash (Works well enough for easy problems)
 
 DAY20: GDScript (Very pythonic. Godot is cursed because of this scripting language though)
 
+DAY21: Elixir (Haskell without types, has some nice syntaxes and collections)
+
 ### Languages to use:
 
 ```
@@ -69,7 +71,7 @@ DAY20: GDScript (Very pythonic. Godot is cursed because of this scripting langua
 - GDScript DONE
 - Lua
 - Bash DONE
-- Elixir                             Erlang
+- Elixir DONE                        Erlang
 - Gleam
 - OpenCL                             GPU
 - CUDA
@@ -127,3 +129,7 @@ Bad things about zig:
 - ArrayList(T) is 40 bytes, as opposed to 24 in rust or C++. ('cuz allocators and so on...), I may change my mind in the future if I see good justification for this...
 
 GDScript should not be used for gameplay code. What's next, using bash for your game?
+
+Day21 was amazing. really had to try to model the whole problem accurately and without distraction. 
+Elixir was kind of cool, but got really REALLY confusing after a while because I couldn't remember if it was a list of list of lists or a list of list of list of lists.... and some function behaviours were very weird? like how 'flatten' did it recursively, so you had to use flat_map with identity to get the correct behaviour...
+For part2 of day21 I found elixir way too confusing to write myself. So I used claude-code to easily describe my whole solution step by step, and it accurately wrote everything without me needing to think about anything syntactic. Truly a cool tool to try out.
