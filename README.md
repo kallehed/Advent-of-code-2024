@@ -45,6 +45,8 @@ DAY20: GDScript (Very pythonic. Godot is cursed because of this scripting langua
 
 DAY21: Elixir (Haskell without types, has some nice syntaxes and collections)
 
+DAY22: Gleam (Some toy language without any good docs or features...?)
+
 ### Languages to use:
 
 ```
@@ -72,7 +74,7 @@ DAY21: Elixir (Haskell without types, has some nice syntaxes and collections)
 - Lua
 - Bash DONE
 - Elixir DONE                        Erlang
-- Gleam
+- Gleam DONE
 - OpenCL                             GPU
 - CUDA
 - Uiuia                              Weird
