@@ -1,0 +1,30 @@
+conn := {};
+try (
+  while (true) (
+    a, b := input()[:-1] split "-";
+    if (not (a in conn)) conn[a] = {};
+    if (not (b in conn)) conn[b] = {};
+    conn[a][b] = null;
+    conn[b][a] = null;
+  );
+) catch _->0;
+
+three_groups := for (k,v <<- conn; a,b <- combinations(v, 2); if b in conn[a]) yield {k,a,b}: null;
+t_starters := set ! conn.keys filter (starts_with "t");
+
+print "\np1 answer:";
+print! len ! three_groups filter (\x -> {} != ! x && t_starters);
+
+# p2
+longest := \x, y -> if (x.len > y.len) x else y;
+
+best := {};
+for (k,v <<- conn) (
+  construct := {k};
+  for (other <- v) if (construct == construct && conn[other]) construct[other] = null;
+  best longest= construct;
+);
+res := best.sort join ",";
+print! "p2 answer:";
+print res
+

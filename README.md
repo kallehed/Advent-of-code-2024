@@ -47,6 +47,8 @@ DAY21: Elixir (Haskell without types, has some nice syntaxes and collections)
 
 DAY22: Gleam (Some toy language without any good docs or features...?)
 
+DAY23: Noulith (Best language so far for AOC)
+
 ### Languages to use:
 
 ```
@@ -71,6 +73,7 @@ DAY22: Gleam (Some toy language without any good docs or features...?)
 - Python DONE
 - Javascript DONE
 - GDScript DONE
+- Noulith DONE
 - Lua
 - Bash DONE
 - Elixir DONE                        Erlang
@@ -135,3 +138,8 @@ GDScript should not be used for gameplay code. What's next, using bash for your 
 Day21 was amazing. really had to try to model the whole problem accurately and without distraction. 
 Elixir was kind of cool, but got really REALLY confusing after a while because I couldn't remember if it was a list of list of lists or a list of list of list of lists.... and some function behaviours were very weird? like how 'flatten' did it recursively, so you had to use flat_map with identity to get the correct behaviour...
 For part2 of day21 I found elixir way too confusing to write myself. So I used claude-code to easily describe my whole solution step by step, and it accurately wrote everything without me needing to think about anything syntactic. Truly a cool tool to try out.
+
+
+Noulith is the greatest language I have set my eyes on in a long time. It's slow, it has diabetes, but it's amazing. Infix by default works so well with the nice builtin functions which often take 2 args. `list map (+1) filter (==3)`.  I like `!` more than haskells `$`. Nice for loops where you can generate things easily like clojure or scala. It has amazing destructuring and pattern matching. Somebody should standardize this, when it has some more features like sum types and so on. 
+
+One drawback is -  to figure out how to actually use the language - I looked at the github README.md and the blogpost "Designing a Programming Language to Speedrun Advent of Code", both of which together seemed to contain the complete specs of the language. This felt wrong, but also right. I also used the REPL a lot, you could even tab to find functions you wanted. Everything felt very straightforward. Damn, this language has the most amazing syntax (even though it seems incredibly hard to parse...).
