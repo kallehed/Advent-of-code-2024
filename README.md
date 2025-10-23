@@ -51,16 +51,16 @@ DAY23: Noulith (Best language so far for AOC)
 
 DAY24: Scala (It's okay)
 
+DAY25: Ruby (Like python but with some extra sugar)
+
 ### Languages to use:
 
 ```
 - C++ DONE                           Systemy
 - Rust DONE
 - Zig DONE
-- Pascal
 - Odin DONE
 - Fortran DONE
-- RiscV assembly
 - C DONE
 - Jai DONE
 - C# DONE                            Garbage collected
@@ -71,22 +71,28 @@ DAY24: Scala (It's okay)
 - Ocaml DONE
 - F# DONE
 - Racket DONE                        Lispy
-- Clojure
 - Julia DONE                         Interpreted
 - Python DONE
 - Javascript DONE
 - GDScript DONE
 - Noulith DONE
-- Lua
+- Ruby DONE
 - Bash DONE
 - Elixir DONE                        Erlang
 - Gleam DONE
-- OpenCL                             GPU
-- CUDA
-- Uiuia                              Weird
-- Prolog
-- Swift DONE                         
+- Swift DONE                         Chris Lattner
 ```
+
+### Languages not used
+
+- Pascal (didn't really offer anything new or interesting)
+- RiscV assembly (too annoying to deal with strings)
+- Clojure (Idk)
+- Lua (I can't live with 1-indexing)
+- OpenCL (Found no obvious way to use it)
+- CUDA (--||--)
+- Uiuia (Tried to use it on one day,but there's always some hindrance...)
+- Prolog (Tried to, but gave up, couldn't figure out how to parse strings...)
 
 
 # Notes
@@ -149,3 +155,5 @@ One drawback is -  to figure out how to actually use the language - I looked at 
 
 
 Scala has interesting syntax, but feels very slow
+
+Ruby is a good scripting language I think. It has many helper methods that I enjoyed. 
